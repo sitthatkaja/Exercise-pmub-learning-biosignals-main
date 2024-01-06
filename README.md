@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Learning from Biosignals Coding Exercises
 
 This repository is a coding exercise for the "Learning from Biosignals" course.
@@ -70,3 +71,6 @@ If you find this useful, please cite our work as follows:
     ISSN = {}, 
 }
 ```
+=======
+# Exercise-pmub-learning-biosignals-main
+>>>>>>> origin/main
