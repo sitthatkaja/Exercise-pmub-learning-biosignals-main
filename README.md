@@ -1,4 +1,13 @@
-<<<<<<< HEAD
+# Original Code Clone ⏩ https://github.com/akaraspt/pmub-learning-biosignals/tree/main
+
+### After doing Exercise
+
+- ในช่วงการทำเนื่องจากเป็น code ที่มีการอัปเดตทำให้บางโค้ดไม่สามารถรันได้จึงทำการแก้ไขให้สามารถรันต่อได้ เช่นการเป็น np.int เป็น np() เป็นต้น
+- ได้มีการแก้ไข Model.py ให้ตรงกับ TinysleepNet
+- เมื่อทำเสร็จไม่สามารถในการรันส่วนของการ predict ได้อาจเกิดปัญหาที่ตัวโค้ดที่ได้รับการอัปเดต
+
+-------------------
+# (Original Text by Developer)
 # Learning from Biosignals Coding Exercises
 
 This repository is a coding exercise for the "Learning from Biosignals" course.
@@ -72,5 +81,3 @@ If you find this useful, please cite our work as follows:
 }
 ```
 =======
-# Exercise-pmub-learning-biosignals-main
->>>>>>> origin/main
