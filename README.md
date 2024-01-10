@@ -1,10 +1,14 @@
-# Original Code Clone ⏩ https://github.com/akaraspt/pmub-learning-biosignals/tree/main
+:white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle:
 
-### After doing Exercise
+# :o: :o: Original Code Clone ⏩ https://github.com/akaraspt/pmub-learning-biosignals/tree/main :o: :o:
+
+### :thought_balloon::thought_balloon:  After doing Exercise :thought_balloon::thought_balloon: 
 
 - ในช่วงการทำเนื่องจากเป็น code ที่มีการอัปเดตทำให้บางโค้ดไม่สามารถรันได้จึงทำการแก้ไขให้สามารถรันต่อได้ เช่นการเป็น np.int เป็น np() เป็นต้น
 - ได้มีการแก้ไข Model.py ให้ตรงกับ TinysleepNet
 - เมื่อทำเสร็จไม่สามารถในการรันส่วนของการ predict ได้อาจเกิดปัญหาที่ตัวโค้ดที่ได้รับการอัปเดต
+
+:white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle:
 
 -------------------
 # (Original Text by Developer)
@@ -81,3 +85,4 @@ If you find this useful, please cite our work as follows:
 }
 ```
 =======
+:white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle:
